@@ -24,7 +24,7 @@ Follow the steps below to run the Snake Game project:
 
 3. Open the `index.html` file in your preferred web browser. You can do this by double-clicking on the `index.html` file or right-clicking and selecting "Open With" your desired web browser.
 
-Now you should be able to play the  game by following these installation steps. Happy gaming!
+Now you should be able to measure your typing speed and improve your typing skills by following these installation steps. Enjoy playing the Typing Speed Test game!
 
 <br>
 
