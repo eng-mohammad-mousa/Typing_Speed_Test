@@ -14,7 +14,7 @@ This project is a simple game aimed at measuring users' typing speed. The game d
 
 ## Installation
 
-Follow the steps below to run the Snake Game project:
+Follow the steps below to run the project:
 
 1. Download or clone the project from the GitHub repository:
    ```
