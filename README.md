@@ -6,6 +6,11 @@
 
 <br>
 
+## Live Demo
+You can  test your typing skills live by visiting the following link: [Live Demo](https://eng-mohammad-mousa.github.io/Typing_Speed_Test/)
+
+<br>
+
 ## Project Description
 
 This project is a simple game aimed at measuring users' typing speed. The game displays a number of words on the screen, and the user is asked to type them as quickly as possible. After completion, the result is displayed. Users can use this game to improve their typing skills and increase their speed.
